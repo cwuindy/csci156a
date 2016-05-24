@@ -4,6 +4,7 @@
 using namespace std;
  
 // Creating class
+// commit #2
  
 class Naming {
     int width, height;

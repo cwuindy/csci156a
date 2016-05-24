@@ -4,6 +4,8 @@
 using namespace std;
  
 // Creating class
+
+// commit #2
  
 class Message
 {
