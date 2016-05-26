@@ -1,4 +1,4 @@
-// Specification file for the Die class
+// Specification file for the Dog class
 #ifndef DOG_H
 #define DOG_H
 
