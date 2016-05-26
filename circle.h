@@ -1,4 +1,4 @@
-// Specification file for the Die class
+// Specification file for the Circle class
 #ifndef CIRCLE_H
 #define CIRCLE_H
 
